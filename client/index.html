@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html ng-app="app">
+
+<head>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body ng-controller="MainCtrl">
+<h1>{{title}}</h1>
+<form name="=addForm" ng-submit="addTemperature()">
+    <h2>{{status}}</h2>
+    <label>Add Temperture:</label>
+    <input name="temperture" size="5" type="number" ng-model="new.temperature" required/>
+    <button>Add</button>
+</form>
+<hr />
+<section>
+    <button ng-click="getTemperature()">Get Median Temperture</button>
+    Current Median: {{medianTemp}}
+    <!-- display current media here-->
+</section>
+
+<hr>
+<a href="jasmine-test-runner.html">Run Unit Tests</a>
+<script data-require="angular.js@*" data-semver="1.3.5" src="https://code.angularjs.org/1.3.5/angular.js"></script>
+<script src="app.js"></script>
+<script src="config.js"></script>
+<script src="mainCtrl.js"></script>
+</body>
+
+</html>

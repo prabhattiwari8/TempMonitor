@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="assignment.model.testTempCalculatorServiceHelper" tests="12" skipped="0" failures="0" errors="0" timestamp="2015-01-22T00:22:14" hostname="GMHMACC02MM1CUFH05" time="0.016">
+  <properties/>
+  <testcase name="testSortedRecordSetShouldReturnSortedList" classname="assignment.model.testTempCalculatorServiceHelper" time="0.003"/>
+  <testcase name="testCalculateMedianForODDNumberOfDBRecords" classname="assignment.model.testTempCalculatorServiceHelper" time="0.0"/>
+  <testcase name="testSingleRecordSetShouldReturnException" classname="assignment.model.testTempCalculatorServiceHelper" time="0.0"/>
+  <testcase name="testRecordSetForODDShouldReturnTrue" classname="assignment.model.testTempCalculatorServiceHelper" time="0.0"/>
+  <testcase name="testCalculateMedianForEmptyRecordSetEvenNumberOfDBRecords" classname="assignment.model.testTempCalculatorServiceHelper" time="0.0"/>
+  <testcase name="testSortedRecordSetShouldReturnSortedListForNegativeRecords" classname="assignment.model.testTempCalculatorServiceHelper" time="0.0"/>
+  <testcase name="testCalculateMedianForEvenNumberOfDBRecords" classname="assignment.model.testTempCalculatorServiceHelper" time="0.0"/>
+  <testcase name="testCalculateDoubleMedianForEvenNumberOfDBRecords" classname="assignment.model.testTempCalculatorServiceHelper" time="0.0"/>
+  <testcase name="testCalculateMedianForSingleRecordSetEvenNumberOfDBRecords" classname="assignment.model.testTempCalculatorServiceHelper" time="0.0"/>
+  <testcase name="testRecordSetForEvenShouldReturnFalse" classname="assignment.model.testTempCalculatorServiceHelper" time="0.001"/>
+  <testcase name="testEmptyRecordSetShouldReturnException" classname="assignment.model.testTempCalculatorServiceHelper" time="0.0"/>
+  <testcase name="testCalculateMedianForMoreODDNumberOfDBRecords" classname="assignment.model.testTempCalculatorServiceHelper" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="assignment.model.testTempCalculatorService" tests="7" skipped="0" failures="0" errors="0" timestamp="2015-01-22T00:22:14" hostname="GMHMACC02MM1CUFH05" time="0.011">
+  <properties/>
+  <testcase name="testHappyPathForODDNumberOfEntriesWithDoubleOutput" classname="assignment.model.testTempCalculatorService" time="0.002"/>
+  <testcase name="testForSingleEntryShouldThrowException" classname="assignment.model.testTempCalculatorService" time="0.001"/>
+  <testcase name="testHappyPathForTwoNumberOfEntriesWithDoubleOutput" classname="assignment.model.testTempCalculatorService" time="0.0"/>
+  <testcase name="testHappyPathForEvenNumberOfEntriesWithDoubleOutput" classname="assignment.model.testTempCalculatorService" time="0.001"/>
+  <testcase name="testHappyPathForMoreODDNumberOfEntriesWithDoubleOutput" classname="assignment.model.testTempCalculatorService" time="0.001"/>
+  <testcase name="testForNoEntryShouldThrowException" classname="assignment.model.testTempCalculatorService" time="0.0"/>
+  <testcase name="testHappyPathForMoreEvenNumberOfEntriesWithDoubleOutput" classname="assignment.model.testTempCalculatorService" time="0.001"/>
+  <system-out><![CDATA[instTempCalculatorMap=={f94f2dfb-e54d-46c3-9e82-f53f93480d8a=[11]}
+instTempCalculatorMap=={f94f2dfb-e54d-46c3-9e82-f53f93480d8a=[11, 1]}
+instTempCalculatorMap=={f94f2dfb-e54d-46c3-9e82-f53f93480d8a=[11, 1, 400]}
+Finished 4
+instTempCalculatorMap=={013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={013baa25-f93a-45f6-87dc-861bf68f96ed=[11], 14196ba7-0163-41ea-ac22-331c0de8804a=[11]}
+instTempCalculatorMap=={013baa25-f93a-45f6-87dc-861bf68f96ed=[11], 14196ba7-0163-41ea-ac22-331c0de8804a=[11, 1]}
+Finished 1
+instTempCalculatorMap=={9195f807-bfef-430e-a840-35a5e2729ed0=[11], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={9195f807-bfef-430e-a840-35a5e2729ed0=[11, 1], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={9195f807-bfef-430e-a840-35a5e2729ed0=[11, 1, 400], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={9195f807-bfef-430e-a840-35a5e2729ed0=[11, 1, 400, 2], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+Finished 2
+instTempCalculatorMap=={c472f11a-de24-4f14-9122-92550bf51414=[11], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={c472f11a-de24-4f14-9122-92550bf51414=[11, 1], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={c472f11a-de24-4f14-9122-92550bf51414=[11, 1, 400], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={c472f11a-de24-4f14-9122-92550bf51414=[11, 1, 400, -2], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={c472f11a-de24-4f14-9122-92550bf51414=[11, 1, 400, -2, 10], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+Finished 5
+instTempCalculatorMap=={ab05cdd5-b5cd-4603-a2ed-e93d46ec6228=[11], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={ab05cdd5-b5cd-4603-a2ed-e93d46ec6228=[11, 1], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={ab05cdd5-b5cd-4603-a2ed-e93d46ec6228=[11, 1, 400], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={ab05cdd5-b5cd-4603-a2ed-e93d46ec6228=[11, 1, 400, 2], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={ab05cdd5-b5cd-4603-a2ed-e93d46ec6228=[11, 1, 400, 2, 2], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+instTempCalculatorMap=={ab05cdd5-b5cd-4603-a2ed-e93d46ec6228=[11, 1, 400, 2, 2, -2], 013baa25-f93a-45f6-87dc-861bf68f96ed=[11]}
+Finished 3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
